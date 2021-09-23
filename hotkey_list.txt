@@ -1,0 +1,64 @@
+Global Hotkeys
+---------------
+Ctrl + Win + L		Store Lookup Tool	
+Ctrl + Win + PgUp	Increase Ticket Counter	
+Ctrl + Win + PgDn	Decrease Ticket Counter	
+Ctrl + Win + Home	Show/Hide Ticket Counter	
+Ctrl + Win + Ins	Lock/Unlock Ticket Counter	
+$Ctrl + Shift + m	Open Quick OneNote Window at Mouse	
+Ctrl + Win + t		Make Window under Mouse Always-On-Top	
+Pause				Pause Tweaks	
+Ctrl + Shift + c	Copy to uberClipboard	
+Ctrl + Win + c		Calculate missing digit for 11 digit barcode	
+Ctrl + f			Enhanced find Functionality	
+Ctrl + Win + u		Kill and Reopen UD (Forced)	
+Ctrl + Shift + 1	Create WIP Icon in OneNote Title	
+Ctrl + Shift + 0	Incrimental Paste (will paste the next number based on what's currently in clipboard)	
+Ctrl + Shift + 2	Create Empty Checkbox in OneNote Title	
+Ctrl + Shift + 3	Create Checked Box in OneNote Title	
+Ctrl + Shift + 4	Create Phone Icon in OneNote Title	
+Ctrl + Alt + c		[EMC] Copy Button Text and Item Number from Page Design button(s)	
+$Alt + Shift + Ins	Search Barcodes in EMC and rotate to the next one from uberClipboard	
+Ctrl + Shift + 5	Add 5 0's	
+Ctrl + Shift + 6	Add 6 0's	
+Ctrl + Shift + 7	Add 7 0's
+
+Universal Desktop Shortcuts
+---------------------------
+Ins					[UD] Add New Price Level Entry for Menu Item	
+Ctrl + w			[UD] Close Tab	
+Ctrl + TAB			[UD] Cycle Tabs	
+Alt + f				[UD] Move cursor to Item ID Search	
+Ctrl + s			[UD] Save changes	
+Alt + a				[UD] Copy Next Item	
+F4					[UD] Exit UD	
+Alt + UP			[UD] Increment Begin and End Date by 1 in Report Setup	
+Ctrl + UP			[UD] Increment Begin and End Date by 1 in Report Setup	
+Alt + Right			[UD] Increment Begin and End Date by 7 (one week) in Report Setup	
+Ctrl + Right		[UD] Increment Begin and End Date by 30 (one month) in Report Setup	
+Alt + Down			[UD] Reduce Begin and End Date by 1 in Report Setup	
+Ctrl + Down			[UD] Reduce Begin and End Date by 1 in Report Setup	
+Alt + Left			[UD] Reduce Begin and End Date by 7 (one week) in Report Setup	
+Ctrl + Left			[UD] Reduce Begin and End Date by 30 (one month) in Report Setup	
+Up					[UD] Repeat action when held down for easy button moving	
+Down				[UD] Repeat action when held down for easy button moving	
+Left				[UD] Repeat action when held down for easy button moving	
+Right				[UD] Repeat action when held down for easy button moving	
+Ctrl + v			[UD] Enhancements when pasting barcodes based on what field it's pasted into	
+Shift + Enter		[UD] Check 'SKU' box before searching for item
+Ctrl + Enter		[UD] Search Begins with instead of contains	
+Alt + Enter			[UD] Clear 'SKU' box before searching for item
+
+EMC Shortcuts
+-------------
+Shift + Enter		[EMC] Clear existing filters and run as new search
+=					[EMC] Add new menu item to Combo Meal Group	
+Ctrl + =			[EMC] Add new menu item to Combo Meal Group	
+Ctrl + Shift + g	[EMC] Goto Item Record and paste next id from uberClipboard (must be field 1)	
+Alt + c				[EMC] Copy Menu Item ID from button in Page Design	
+Alt + e				[EMC] Edit Button in Page Design	
+XButton1			[EMC] Close tab with back button on Mouse
+
+Remedy Shortcuts
+----------------
+Ctrl + Win + w		[RemedyWeb] Resize Remedy Console Window	
